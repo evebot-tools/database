@@ -1,4 +1,4 @@
-package models
+package database
 
 import (
 	"github.com/kamva/mgm/v3"
